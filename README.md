@@ -1,2 +1,2 @@
-# jogo-genesis
-Repositório jogo gênesis criado durante a aula dio
+# Jogo da memória tipo Gênesis
+Repositório do jogo da memória Gênesis, criado durante a aula Digital Innovation, especialista Gabriela Pinheiro
